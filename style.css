@@ -1,3 +1,10 @@
 h1{
     color: red;
 }
+h2{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+main{
+    background: green;
+}
